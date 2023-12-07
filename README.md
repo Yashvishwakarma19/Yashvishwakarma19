@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashvishwakarma19
-- 👀 I’m interested in .Coding languages coding languages..
+- 👀 I’m interested in .Coding languages ..
 - 🌱 I’m currently learning . Python,HTML,CSS, Javascript..
 - 💞️ I’m looking to collaborate on . coding projects..
 - 📫 How to reach me . email me..
